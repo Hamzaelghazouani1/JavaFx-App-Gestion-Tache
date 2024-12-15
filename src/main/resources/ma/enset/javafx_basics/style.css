@@ -1,0 +1,18 @@
+.low-priority {
+    -fx-background-color: #d4edda;
+    -fx-text-fill: #155724;
+}
+
+.medium-priority {
+    -fx-background-color: #fff3cd;
+    -fx-text-fill: #856404;
+}
+
+.high-priority {
+    -fx-background-color: #f8d7da;
+    -fx-text-fill: #721c24;
+}
+
+.list-view:pressed{
+    -fx-text-fill: #000000;
+}
